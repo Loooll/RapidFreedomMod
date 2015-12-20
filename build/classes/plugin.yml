@@ -1,0 +1,8 @@
+name: RapidFreedomMod
+main: me.StevenLawson.TotalFreedomMod.TotalFreedomMod
+version: 1.0
+description: This plugin is based off TotalFreedomMod, and is for RapidFreedom use!
+softdepend: [BukkitTelnet, WorldEdit, Essentials]
+authors: [Madgeek1450, Prozza]
+
+# plugin.yml is no longer used to define commands.
